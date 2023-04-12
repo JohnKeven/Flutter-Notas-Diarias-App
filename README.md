@@ -4,6 +4,6 @@
 
 Revisando:
 
-- Pattern Singleton
+- Singleton
 - SQFlite
 - package INTL
